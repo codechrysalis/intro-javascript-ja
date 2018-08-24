@@ -13,7 +13,9 @@
 
 ## Exercises
 
-### Explore Your Template
+### Create a Simple Development Environment
+
+[Slides are here -->](https://docs.google.com/presentation/d/e/2PACX-1vRSb9AJwPOEob4Bv406rK9Q6uLEmnWcI34Df2FsiGGpT7wA0DfieZOnxpaCimtaRSKX-atpQIiAaJss/pub?start=false&loop=false&delayms=3000)
 
 1. [Download this zip](https://cdn.rawgit.com/codechrysalis/intro-javascript/2979d760/your-template.zip) to get started with the exercises below.
 1. Unzip the contents.

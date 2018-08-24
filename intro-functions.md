@@ -15,7 +15,7 @@
 
 ### Explore Your Template
 
-1. Download this zip to get started with the exercises below.
+1. [Download this zip](https://cdn.rawgit.com/codechrysalis/intro-javascript/2979d760/your-template.zip) to get started with the exercises below.
 1. Unzip the contents.
 1. Working with the person next to you, try to see if you can figure out how to open the `your-template` folder on Visual Studio Code.
 1. Once you have the folder contents open on Visual Studio Code, take a look at the contents! What do you see?

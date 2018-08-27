@@ -31,8 +31,8 @@ To find out more about us, please go to our website: [https://www.codechrysalis.
 
 Follow us on...
 
-Instagram - [https://www.instagram.com/codechrysalis](https://www.instagram.com/codechrysalis)
-Facebook - [https://www.facebook.com/codechrysalis](https://www.facebook.com/codechrysalis)
-Twitter - [https://www.twitter.com/codechrysalis](https://www.twitter.com/codechrysalis)
-Blog - [https://blog.codechrysalis.io/](https://blog.codechrysalis.io/)
-Medium - [http://medium.com/code-chrysalis](http://medium.com/code-chrysalis)
+* Instagram - [https://www.instagram.com/codechrysalis](https://www.instagram.com/codechrysalis)
+* Facebook - [https://www.facebook.com/codechrysalis](https://www.facebook.com/codechrysalis)
+* Twitter - [https://www.twitter.com/codechrysalis](https://www.twitter.com/codechrysalis)
+* Blog - [https://blog.codechrysalis.io/](https://blog.codechrysalis.io/)
+* Medium - [http://medium.com/code-chrysalis](http://medium.com/code-chrysalis)

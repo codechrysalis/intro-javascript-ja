@@ -15,6 +15,32 @@ You will need:
 * [Foundations of Programming](https://github.com/codechrysalis/intro-javascript/blob/master/foundations.md)
 * [Intro to Functions](https://github.com/codechrysalis/intro-javascript/blob/master/intro-functions.md)
 
+## What to Do Next?
+
+* Go through the materials! Feel free to email us with coding questions: hello@codechrysalis.io
+* Read and DO THE EXERCISES in [Eloquent JavaScript](http://eloquentjavascript.net/), chapters 1 through 5
+* Practice coding challenges on [Code Wars](https://www.codewars.com/)
+* Learn some HTML + CSS:
+    * Create your own website using HTML and CSS
+* Harvard's free online CS50x is a great way to push yourself gain experience with different languages work on projects
+* Attend tech meetups and get immersed in the scene!
+    * [Code Chrysalis](https://www.meetup.com/codechrysalis)
+    * [DevJapan](https://www.meetup.com/devjapan)
+    * There are so many more!---find them on [Meetup.com](https://www.meetup.com) and [Connpass](http://connpass.com/)
+    * [Our list of events and communities for women in Tokyo](https://medium.com/code-chrysalis/the-definitive-guide-to-womens-tech-events-and-communities-in-tokyo-43a00ee3f87d)
+
+## Advice and Tips
+
+* Don't be afraid to reach out to other professionals or to the community at large. Someone is always willing to teach!
+* Don't be afraid to ask for help or help people back.
+* Practice, practice, practice. Just reading won't do anything.
+* Stick with one language--learning multiple languages in the beginning can be confusing.
+* Google is your best friend.
+* Be careful with copy and pasting code---always make sure you understand it. Don't study the solution.
+* Read/learn to read the documentation. It's hard and frustrating, just like learning any other new skill.
+* Failing a lot is completely normal. Coding is an unending parade of error messages--as long as you're getting a new error, you're making progress.
+* Stay small---focus on the next possible thing to do.
+
 ## About Code Chrysalis
 
 Code Chrysalis is a coding school based in Tokyo with the only advanced full-stack software engineering immersive bootcamp in Asia.
@@ -31,6 +57,7 @@ To find out more about us, please go to our website: [https://www.codechrysalis.
 
 Follow us on...
 
+Meetup - [https://www.meetup.com/codechrysalis](https://www.meetup.com/codechrysalis)
 Instagram - [https://www.instagram.com/codechrysalis](https://www.instagram.com/codechrysalis)
 Facebook - [https://www.facebook.com/codechrysalis](https://www.facebook.com/codechrysalis)
 Twitter - [https://www.twitter.com/codechrysalis](https://www.twitter.com/codechrysalis)

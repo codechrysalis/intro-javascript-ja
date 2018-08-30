@@ -9,8 +9,8 @@
 
 ## Lecture Slides
 
-[Intro to Functions Lecture](https://docs.google.com/presentation/d/e/2PACX-1vRn4Yo1FeW1K06qqnH1g1GjrIpPwyaMy4uHsRLn-v_D7UqHoH3BaltAK8thP4nB73zq5j4iaXLU501v/pub?start=false&loop=false&delayms=3000)
-[Intro to Functions Pt. 2 - Function Parts](https://docs.google.com/presentation/d/e/2PACX-1vSLxxhqItSgZb_lIbkKuTyHdjTheyFaHJQuiewxMlkkJeZAcODTOJi2opodgCIQtPI03rXlUktEo26v/pub?start=false&loop=false&delayms=3000)
+* [Intro to Functions Lecture](https://docs.google.com/presentation/d/e/2PACX-1vRn4Yo1FeW1K06qqnH1g1GjrIpPwyaMy4uHsRLn-v_D7UqHoH3BaltAK8thP4nB73zq5j4iaXLU501v/pub?start=false&loop=false&delayms=3000)
+* [Intro to Functions Pt. 2 - Function Parts](https://docs.google.com/presentation/d/e/2PACX-1vSLxxhqItSgZb_lIbkKuTyHdjTheyFaHJQuiewxMlkkJeZAcODTOJi2opodgCIQtPI03rXlUktEo26v/pub?start=false&loop=false&delayms=3000)
 
 ## Exercises
 

@@ -14,6 +14,7 @@ You will need:
 * [Welcome Slides](https://docs.google.com/presentation/d/e/2PACX-1vRs7Zh_xmRbUxwJszgHqnbxON3tLlWn0lR1EDj_oz4dwijtzFK9h8x5Ub9TB2r7WjyOz_AeXeqnX1fh/pub?start=false&loop=false&delayms=3000)
 * [Foundations of Programming](https://github.com/codechrysalis/intro-javascript/blob/master/foundations.md)
 * [Intro to Functions](https://github.com/codechrysalis/intro-javascript/blob/master/intro-functions.md)
+* [Intro to Comparisons](https://github.com/codechrysalis/intro-javascript/blob/master/intro-comparisons.md)
 
 ## What to Do Next?
 

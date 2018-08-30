@@ -17,12 +17,12 @@ You will need:
 
 ## What to Do Next?
 
-* Go through the materials! Feel free to email us with coding questions: hello@codechrysalis.io
+* Go through the materials! Feel free to email us with coding questions: [hello@codechrysalis.io](mailto:hello@codechrysalis.io)
 * Read and DO THE EXERCISES in [Eloquent JavaScript](http://eloquentjavascript.net/), chapters 1 through 5
 * Practice coding challenges on [Code Wars](https://www.codewars.com/)
 * Learn some HTML + CSS:
     * Create your own website using HTML and CSS
-* Harvard's free online CS50x is a great way to push yourself gain experience with different languages work on projects
+* [Harvard's free online CS50x](https://harvardx.harvard.edu/cs50x-introduction-computer-science) is a great way to push yourself gain experience with different languages work on projects
 * Attend tech meetups and get immersed in the scene!
     * [Code Chrysalis](https://www.meetup.com/codechrysalis)
     * [DevJapan](https://www.meetup.com/devjapan)
@@ -43,7 +43,7 @@ You will need:
 
 ## About Code Chrysalis
 
-Code Chrysalis is a coding school based in Tokyo with the only advanced full-stack software engineering immersive bootcamp in Asia.
+[Code Chrysalis](https://www.codechrysalis.io) is a coding school based in Tokyo with the only advanced full-stack software engineering immersive bootcamp in Asia.
 
 In addition, we have two part-time programs---[an introduction to coding course](https://www.codechrysalis.io/foundations) and [an English communication course](https://www.codechrysalis.io/english).
 

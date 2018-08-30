@@ -41,6 +41,20 @@ You will need:
 * Failing a lot is completely normal. Coding is an unending parade of error messages--as long as you're getting a new error, you're making progress.
 * Stay small---focus on the next possible thing to do.
 
+# Find us on the internet
+
+## Yan Fan
+
+[Twitter](https://www.twitter.com/yanarchy)
+[Facebook](https://www.facebook.com/yanfan)
+[LinkedIn](https://www.linkedin.com/in/yanfan)
+
+## Kani Munidasa
+
+[Twitter](https://www.twitter.com/munidk)
+[Facebook](https://www.facebook.com/kani.muni)
+[LinkedIn](https://www.linkedin.com/in/kanimuni)
+
 ## About Code Chrysalis
 
 [Code Chrysalis](https://www.codechrysalis.io) is a coding school based in Tokyo with the only advanced full-stack software engineering immersive bootcamp in Asia.

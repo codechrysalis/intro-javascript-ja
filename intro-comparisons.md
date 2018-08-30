@@ -21,29 +21,6 @@
 
 ## Exercises
 
-Create a new folder called **intro-comparisons** in **week-01/4-thursday**
-Copy the **index.html** and **script.js** from the template folder into the **intro-comparisons** folder
-
-The **index.html** should be as follows. If it doesn't match then paste the code from below.
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="theme-color" content="#000000">
-  <script type="text/javascript" src="script.js"></script>
-</head>
-
-<body>
-  <h1>Open your console to view your code! </h1>
-</body>
-
-</html>
-```
-
 Inside of **script.js** complete the following exercises:
 
 ### Basic Requirements

@@ -10,7 +10,7 @@
 
 ## Lecture Slides
 
-[Slides are here](https://docs.google.com/presentation/d/e/2PACX-1vSMm-b3hSJwjgc4TQe7YnXfVjpdgklt4Ma30sfWULU4jDxt0XplMXLX0vMem6cVBj8LDlbhtLSNpb4s/embed?start=false&loop=false&delayms=10000)
+[Slides are here](https://docs.google.com/presentation/d/e/2PACX-1vQR9MVY1wprMhweN278XrP587sizLmdR1qxVmW2RDoArrz2Exxwy4wi1fZXgD0_-eGxRzMo6-2dzvLk/pub?start=false&loop=false&delayms=3000)
 
 ## Exercises
 

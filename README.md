@@ -26,7 +26,7 @@ You will need:
 * Attend tech meetups and get immersed in the scene!
     * [Code Chrysalis](https://www.meetup.com/codechrysalis)
     * [DevJapan](https://www.meetup.com/devjapan)
-    * There are so many more!---find them on [Meetup.com](https://www.meetup.com) and [Connpass](http://connpass.com/)
+    * There are so many more!---find them on [Meetup.com](https://www.meetup.com) and [Connpass.com](http://connpass.com/)
     * [Our list of events and communities for women in Tokyo](https://medium.com/code-chrysalis/the-definitive-guide-to-womens-tech-events-and-communities-in-tokyo-43a00ee3f87d)
 
 ## Advice and Tips

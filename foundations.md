@@ -1,36 +1,36 @@
-# Foundations of Programming
+# プログラミングの基礎
 
-## Objectives
+## ねらい
 
-- Understand what a program is
-- Understand why JavaScript is a useful programming language for beginners to learn
-- Describe and use JavaScript _expressions_
-- Describe and use arithmetic _operators_
-- Describe and use `number` and `string` data _types_
+- プログラムとはなにかを理解する
+- なぜJavaScriptが、初心者が学ぶのに役に立つプログラミング言語なのかを理解する
+- JavaScriptの _expressions_ を使ってみる
+- 数学の _operators_ を使ってみる
+- `number` や `string` といったデータの _types_ を使ってみる
 
-## Lecture Slides
+## 講義スライド
 
-[Slides are here](https://docs.google.com/presentation/d/e/2PACX-1vQR9MVY1wprMhweN278XrP587sizLmdR1qxVmW2RDoArrz2Exxwy4wi1fZXgD0_-eGxRzMo6-2dzvLk/pub?start=false&loop=false&delayms=3000)
+[スライドはこちら](https://docs.google.com/presentation/d/e/2PACX-1vQR9MVY1wprMhweN278XrP587sizLmdR1qxVmW2RDoArrz2Exxwy4wi1fZXgD0_-eGxRzMo6-2dzvLk/pub?start=false&loop=false&delayms=3000)
 
 ## Exercises
 
-### Basic Requirements
+### 基礎編
 
-You will only need your Chrome browser with the developer console open for the following activities.
+Google Chromeのディベロッパーコンソールを開いて、以下のアクティビティをやってみましょう。
 
-#### Vocabulary
+#### ボキャブラリー
 
-Can you try to define the following in your own words?
+以下の3つの言葉を自分なりの言葉で定義してみましょう。
 
 - _expression_
 - _operator_
 - _type_
 
-#### `number`s & `string`s
+#### `number`s と `string`s
 
 ##### `number`s
 
-1.  Enter the below expressions, line by line, into your Chrome console. What happens for each?
+1. 以下のexpressionを一行ずつChromeのコンソールに入力してみましょう。それぞれ何が表示されますか？
 
     ```js
     4 + 10;
@@ -43,40 +43,40 @@ Can you try to define the following in your own words?
     1241 / 9 + 99;
     ```
 
-1.  Based on your work above, what does `%` do?
+2. `%` はなんの計算の表現ですか？
 
-1.  Calculate your age in minutes using the console.
+3. コンソールを使ってあなたの年齢を計算してみましょう。数分でやってみてください。
 
-##### Bonus Section
+##### ボーナス
 
-1.  The console is getting a little full. Use `clear()` to clean things up a little.
+1. コンソールがいっぱいになってきています。`clear()` を使ってリフレッシュしましょう。
 
 ##### `string`s
 
-1.  In your console, put your name in a `string`!
+1. コンソールで、あなたの名前を `string` を使って入力してみましょう！
 
-1.  Use the `+` operator to _concatenate_ (join together) two or more
-    `string`s, _e.g._:
+2. オペレーターの `+` を使って、 _concatenate_ (文字を結合させる) してみましょう。
+
+    _e.g._:
 
     ```js
-    // Your first and last names as an example
+    // あなたの苗字と名前
     "Yan " + "Fan";
     ```
 
-    - Your first and last names (as shown above in the example code snippet)
-    - Your favourite singer's full name
+    - あなたの苗字と名前（上記のコードスニペットに示している例のように）
+    - あなたの好きな歌手のフルネーム
     - Code Chrysalis
 
-1.  Try the following in your console, line by line. What happens? Fix the errors:
+3. 以下を一行ずつコンソールで試してみてください。何が起こりますか？エラーを解消してみましょう。：
 
     ```js
-    Where are the quotes?
-    'hmm something is not right"
-    'Do other ' * 'operators work with string concatenation?
+    quotes（引用符）はどこにあるべきでしょうか？
+    'んーなにかがちがいますね"
+    '他の' * 'オペレーターは、文字列結合できるのでしょうか?'
     ```
 
-1.  We want you to get comfortable with actively exploring through code. Answer the following questions by coding to test the questions:
-    1.  What happens when I add a `string` and a `number` together?
-    1.  What if I reverse the order (e.g. `number` + `string`)?
-    1.  What happens if I multiply a `number` 5 with a `string` "5"?
-
+4. コードを通して主体的に解決策を模索することが大事です。以下の質問に対してコーディングしながら答えを導き出してください。
+    1. `string` と `number` をこの順番で一緒に入力すると何が起こりますか？
+    2. もしその順番をひっくり返したらどうなりますか (e.g. `number` + `string`)？
+    3. もし `number` の5 を `string` "5"で掛け算するとどうなりますか？

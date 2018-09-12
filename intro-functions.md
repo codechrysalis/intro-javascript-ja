@@ -1,69 +1,69 @@
-# Intro to `function`s
+# `function`s 入門
 
-## Objectives
+## ねらい
 
-1.  Know what a `function` is and why we have them
-1.  Create a `function`
-1.  Invoke a `function`
-1.  Know the difference between a `return` statement and `console.log`
+1. `function` とはなにか、なぜそれを使う必要があるかを知る
+2. `function` を作る
+3. `function` を呼び出す
+4. `return` ステートメントと `console.log` とのちがいを知る
 
-## Lecture Slides
+## 講義スライド
 
-* [Intro to Functions Lecture](https://docs.google.com/presentation/d/e/2PACX-1vRn4Yo1FeW1K06qqnH1g1GjrIpPwyaMy4uHsRLn-v_D7UqHoH3BaltAK8thP4nB73zq5j4iaXLU501v/pub?start=false&loop=false&delayms=3000)
-* [Intro to Functions Pt. 2 - Function Parts](https://docs.google.com/presentation/d/e/2PACX-1vSLxxhqItSgZb_lIbkKuTyHdjTheyFaHJQuiewxMlkkJeZAcODTOJi2opodgCIQtPI03rXlUktEo26v/pub?start=false&loop=false&delayms=3000)
+* [Functions 講義入門](https://docs.google.com/presentation/d/e/2PACX-1vRn4Yo1FeW1K06qqnH1g1GjrIpPwyaMy4uHsRLn-v_D7UqHoH3BaltAK8thP4nB73zq5j4iaXLU501v/pub?start=false&loop=false&delayms=3000)
+* [Functions 講義入門 Pt. 2 - Function部分](https://docs.google.com/presentation/d/e/2PACX-1vSLxxhqItSgZb_lIbkKuTyHdjTheyFaHJQuiewxMlkkJeZAcODTOJi2opodgCIQtPI03rXlUktEo26v/pub?start=false&loop=false&delayms=3000)
 
 ## Exercises
 
-### Create a Simple Development Environment
+### 簡素な開発環境を作ってみよう
 
-[Slides are here -->](https://docs.google.com/presentation/d/e/2PACX-1vRSb9AJwPOEob4Bv406rK9Q6uLEmnWcI34Df2FsiGGpT7wA0DfieZOnxpaCimtaRSKX-atpQIiAaJss/pub?start=false&loop=false&delayms=3000)
+[スライドはこちら -->](https://docs.google.com/presentation/d/e/2PACX-1vRSb9AJwPOEob4Bv406rK9Q6uLEmnWcI34Df2FsiGGpT7wA0DfieZOnxpaCimtaRSKX-atpQIiAaJss/pub?start=false&loop=false&delayms=3000)
 
-1. [Download this zip](https://cdn.rawgit.com/codechrysalis/intro-javascript/2979d760/your-template.zip) to get started with the exercises below.
-1. Unzip the contents.
-1. Working with the person next to you, try to see if you can figure out how to open the `your-template` folder on Visual Studio Code.
-1. Once you have the folder contents open on Visual Studio Code, take a look at the contents! What do you see?
-1. For the exercises below, you will do them in the `.js` file.
+1. [このzipファイルをダウンロードしてください。](https://cdn.rawgit.com/codechrysalis/intro-javascript/2979d760/your-template.zip) それから以下に進んでください。
+2. zipを解凍してください。
+3. あなたの隣の人と一緒に、Visual Studio Code上での`your-template`フォルダーの開き方が正しいか、確認してみましょう。
+4. Visual Stuido Code上でzipファイルの中身を開けたら、その中身を見てみてください。何がありますか？
+5. 以下のexercisesでは、拡張子が `.js` のファイルで作業することになります。
 
-### Basic Requirements
+### 基礎編
 
-// <-- Two backslashes mark a comment and comments are ignored by the JavaScript engine (the program which reads our code and does stuff.)
-
-```js
-// This line is a comment and not code.
-// This line is also a comment.
-```
-
-You can also surround multiple lines of comments with a backslash and asterisk
+// <-- バックスラッシュ2本はコメントになります。コメントはJavaScriptのエンジン（コードを読み、動作させるプログラム）が無視します。
 
 ```js
-/* This is more than one line of comments
-In fact it is two lines */
+// この行はコメントでコードではありません。
+// この行もまたコメントです。
 ```
 
-1.  Now that we are writing our JavaScript in a file rather than directly in the console, we will need to use `console.log` to make sure that values print in our console. Enter the following two lines into your **script.js** file. Open the **index.html** file in your browser and open the developer tools. What do you see in your developer console?
+バックスラッシュとアスタリスクを使うと、複数行をコメントにできます。
+
+```js
+/* これは一行以上のコメントです。
+これは二行目です。 */
+```
+
+1. 今ダイレクトにコンソールではなく、ファイルにJavaScriptのコードを書いているので、コンソールに値を表示させるためには `console.log` を使う必要があります。**script.js** ファイルに以下の2行を追加してください。そして **index.html** をブラウザで開き、ディベロッパーツールを開いてみてください。ディベロッパーコンソールに何が見えますか？
 
     ```js
     5 + 6;
     console.log(6 + 6);
     ```
 
-    Why does it work this way?
+    なぜこのように動作するのでしょうか？
 
-1.  Use the `function` below to return the sum of two `number`s. Enter the following code in your script.js file:
+2. 以下の `function` を使って、2つの `number`s の合計を求めてみましょう。**script.js** に以下のコードを入力してみてください。:
 
     ```js
     function add(numOne, numTwo) {
       return numOne + numTwo;
     }
 
-    // Tests
-    console.log(add(4, 3)); // should return 7
-    console.log(add(100, 42)); // => 142
+    // テスト
+    console.log(add(4, 3)); // 7 が表示されるようにしましょう。
+    console.log(add(100, 42)); // 142 が表示されるようにしましょう。
     ```
 
-    **Something Cool**: `function`s that you declare in your **script.js** are available in the console. Try entering the two tests directly in the developer console. You should continue to put your tests in the **script.js** file, but this can be useful when debugging.
+    **ヒント**: **script.js** の中で定義された `function`s はコンソールで使用できます。ディベロッパーコンソールに直接2つのテストを入力してみましょう。**script.js**にテストを入れ続けてください。デバッグに役に立ちます。
 
-1.  Declare a function named _subtract_ that subtracts the second argument from the first argument. Remember to try the test cases to see if your function works.
+3. _subtract_ というファンクションを宣言しましょう。このファンクションは最初の引数の数字から、二番目の引数の数字を引き算するファンクションです。ファンクションが正しく動作するかどうかテストケースを試してみましょう。
 
     ```js
     function subtract(num1, num2) {
@@ -71,28 +71,28 @@ In fact it is two lines */
     }
     ```
 
-    Test cases:
+    テストケース:
 
     ```js
     console.log(subtract(4, 3)); // => 1
     console.log(subtract(100, 42)); // => 58
     ```
 
-1.  Declare a `function` named _greeting_ that takes a name `string` as an argument and prints hello!
+4. _greeting_ というファンクションを宣言しましょう。このファンクションは `string` 型の `name` という引数を取って、挨拶文を表示させるものにします。
 
     ```js
     // Your code here
     ```
 
-    Test cases:
+    テストケース:
 
     ```js
     console.log(greeting("Alex")); // => "Hello, Alex!"
     console.log(greeting("Beau")); // => "Hello, Beau!"
     ```
 
-1.  Declare a `function` called _average_ that takes two `number`s as inputs and returns the average of those `number`s. This time, write two tests for your `function` by yourself!
+5. _average_ というファンクションを宣言しましょう。このファンクションは2つの`number`s をインプットとし、それらの平均を `number` として返します。今回は自分でテストケースを2つ作ってみましょう！
 
-### Advanced Requirements
+### 応用編
 
-1.  Check out [this pdf of geometry formulas](http://www.gbcnv.edu/documents/ASC/docs/00000005.pdf). Declare `function`s representing each of the formulas.
+1. [図形問題の公式集](http://www.gbcnv.edu/documents/ASC/docs/00000005.pdf) をチェックしてみてください。それぞれの公式を `function`s で作ってみましょう。

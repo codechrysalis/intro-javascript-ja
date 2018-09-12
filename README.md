@@ -1,48 +1,49 @@
-# Intro to Programming in JavaScript
+# JavaScriptを使ったプログラミング入門
 
-Hello! Welcome to our mini-workshop today 😄 We are so excited to get you started.
+こんにちは！今日は私たちのワークショップにお越しくださってありがとうございます 😄
+皆さんにJavaScriptのおもしろさを知ってもらえることにとてもわくわくしています。
 
-## Getting Started
+## 始める前に
 
-You will need:
+インストールするもの:
 
 * Google Chrome
 * Visual Studio Code
 
-## The Lessons for Today
+## 今日のレッスン
 
 * [Welcome Slides](https://docs.google.com/presentation/d/e/2PACX-1vRs7Zh_xmRbUxwJszgHqnbxON3tLlWn0lR1EDj_oz4dwijtzFK9h8x5Ub9TB2r7WjyOz_AeXeqnX1fh/pub?start=false&loop=false&delayms=3000)
-* [Foundations of Programming](https://github.com/codechrysalis/intro-javascript/blob/master/foundations.md)
-* [Intro to Functions](https://github.com/codechrysalis/intro-javascript/blob/master/intro-functions.md)
-* [Intro to Comparisons](https://github.com/codechrysalis/intro-javascript/blob/master/intro-comparisons.md)
+* [プログラミングの基礎](https://github.com/codechrysalis/intro-javascript/blob/master/foundations.md)
+* [ファンクション入門](https://github.com/codechrysalis/intro-javascript/blob/master/intro-functions.md)
+* [比較演算子入門](https://github.com/codechrysalis/intro-javascript/blob/master/intro-comparisons.md)
 
-## What to Do Next?
+## レッスンの後にするべきこと
 
-* Go through the materials! Feel free to email us with coding questions: [hello@codechrysalis.io](mailto:hello@codechrysalis.io)
-* Read and DO THE EXERCISES in [Eloquent JavaScript](http://eloquentjavascript.net/), chapters 1 through 5
-* Practice coding challenges on [Code Wars](https://www.codewars.com/)
-* Learn some HTML + CSS:
-    * Create your own website using HTML and CSS
-* [Harvard's free online CS50x](https://harvardx.harvard.edu/cs50x-introduction-computer-science) is a great way to push yourself gain experience with different languages work on projects
-* Attend tech meetups and get immersed in the scene!
-    * [Code Chrysalis](https://www.meetup.com/codechrysalis)
-    * [DevJapan](https://www.meetup.com/devjapan)
-    * There are so many more!---find them on [Meetup.com](https://www.meetup.com) and [Connpass.com](http://connpass.com/)
-    * [Our list of events and communities for women in Tokyo](https://medium.com/code-chrysalis/the-definitive-guide-to-womens-tech-events-and-communities-in-tokyo-43a00ee3f87d)
+* 以下の題材にチャレンジしてみましょう。わからないことがあれば、気軽にメールで質問してくださいね。: [hello@codechrysalis.io](mailto:hello@codechrysalis.io)
+* [Eloquent JavaScript](http://eloquentjavascript.net/)の、chapters 1 から 5 までを読み、Exercisesに取り組む。
+* [Code Wars](https://www.codewars.com/)に登録（無料です！）して、コーディングを練習。
+* HTMLとCSSの基礎を習熟する。
+  * 自分についてのウェブサイトを、HTMLとCSSを使って作り上げましょう。
+* [Harvard's free online CS50x](https://harvardx.harvard.edu/cs50x-introduction-computer-science)は、ちがうプログラミング言語を扱う経験を得られるのでおすすめ。
+* テクニカル系のミートアップに参加して、この世界に没頭しましょう！
+  * [Code Chrysalis](https://www.meetup.com/codechrysalis)
+  * [DevJapan](https://www.meetup.com/devjapan)
+  * これだけではなくもっとたくさんあります。自分で興味あるものを見つけて行ってみましょう！ [Meetup.com](https://www.meetup.com) と [Connpass.com](http://connpass.com/) で見つけられます。
+  * [東京で行われている女性のためのイベントやコミュニティの一覧](https://medium.com/code-chrysalis/the-definitive-guide-to-womens-tech-events-and-communities-in-tokyo-43a00ee3f87d)
 
-## Advice and Tips
+## アドバイスととっておきのコツ
 
-* Don't be afraid to reach out to other professionals or to the community at large. Someone is always willing to teach!
-* Don't be afraid to ask for help or help people back.
-* Practice, practice, practice. Just reading won't do anything.
-* Stick with one language--learning multiple languages in the beginning can be confusing.
-* Google is your best friend.
-* Be careful with copy and pasting code---always make sure you understand it. Don't study the solution.
-* Read/learn to read the documentation. It's hard and frustrating, just like learning any other new skill.
-* Failing a lot is completely normal. Coding is an unending parade of error messages--as long as you're getting a new error, you're making progress.
-* Stay small---focus on the next possible thing to do.
+* 恐がらずに他のプロフェッショナルとコンタクトを取ったり、大きいコミュニティに参加したりしましょう。教えるのにいつも熱心な人たちは少なからずいます。
+* 助けを求めたり、逆に助けたりすることをどんどんやりましょう。
+* 一に練習、二に練習、三に練習。読んでいるだけではなにも身につきません。
+* まずは一つの言語に集中しましょう。最初から複数の言語を学ぶと混乱する可能性があります。
+* Google は親友！と言えるくらい最大限に活用しましょう。
+* コードのコピペには気をつけましょう。必ず理解するように心がけること。解決策ではなく本質を理解することです。
+* ドキュメントを読めるようになるために、読み、学ぶこと。これは他の新しいスキルを学ぶときと同じように難しく、いらいらすることですが、忍耐強くやりましょう。
+* 失敗をたくさんすることが普通なのです。コーディングは終わることのないエラーメッセージのパレード。新しいエラーに遭遇する限り、進歩しているのです。
+* 眼の前のことを一歩ずつ。次にできることに集中しましょう。
 
-# Find us on the internet
+# ネットで私たちとつながりましょう
 
 ## Yan Fan
 
@@ -56,21 +57,21 @@ You will need:
 [Facebook](https://www.facebook.com/kani.muni)
 [LinkedIn](https://www.linkedin.com/in/kanimuni)
 
-## About Code Chrysalis
+## コードクリサリスについて
 
-[Code Chrysalis](https://www.codechrysalis.io) is a coding school based in Tokyo with the only advanced full-stack software engineering immersive bootcamp in Asia.
+[Code Chrysalis](https://www.codechrysalis.io) は東京でコーディングスクールを開いています。アジアでたった一つの、頭一つ抜きん出たフルスタックソフトウェアエンジニアを育てる、フルタイム型のブートキャンプです。
 
-In addition, we have two part-time programs---[an introduction to coding course](https://www.codechrysalis.io/foundations) and [an English communication course](https://www.codechrysalis.io/english).
+さらに2つの定時制のプログラムを用意しています。---[コーディング入門コース](https://www.codechrysalis.io/foundations) and [英語コミュニケーションコース](https://www.codechrysalis.io/english).
 
-We believe we are creating and leading the third wave of coding bootcamps by preparing our students for engineering leadership.
+私たちは生徒をエンジニアリーダーに育てることによって、コーディングブートキャンプ業界の新たな風を巻き起こし、リードできると考えています。
 
-We put on free workshops and events for the community, so please support us by following us on Instagram, Facebook, or Twitter!
+コミュニティ向けに無料のワークショップやイベントを用意しています。インスタグラム、フェイスブックやTwitterでフォローいただき、サポートください！
 
 🦋🦋🦋
 
-To find out more about us, please go to our website: [https://www.codechrysalis.io](https://www.codechrysalis.io)
+私たちのウェブサイトはこちらです。: [https://www.codechrysalis.io](https://www.codechrysalis.io)
 
-Follow us on...
+私たちのアカウントはこちら。フォローしてください。
 
 * Meetup - [https://www.meetup.com/codechrysalis](https://www.meetup.com/codechrysalis)
 * Instagram - [https://www.instagram.com/codechrysalis](https://www.instagram.com/codechrysalis)

@@ -12,7 +12,7 @@
 
 ## 今日のレッスン
 
-* [Welcome Slides](https://docs.google.com/presentation/d/e/2PACX-1vRs7Zh_xmRbUxwJszgHqnbxON3tLlWn0lR1EDj_oz4dwijtzFK9h8x5Ub9TB2r7WjyOz_AeXeqnX1fh/pub?start=false&loop=false&delayms=3000)
+* [Welcome Slides](https://docs.google.com/presentation/d/e/2PACX-1vRc3EGkVdx0Db7VNkbCNaTWHZA5Ge5PtYMM_guIVa6QvvQ4N8Yy3b7jxHWxNJWjmg0H9P05VM7wKAP1/pub?start=false&loop=false&delayms=3000)
 * [プログラミングの基礎](https://github.com/codechrysalis/intro-javascript/blob/master/foundations.md)
 * [ファンクション入門](https://github.com/codechrysalis/intro-javascript/blob/master/intro-functions.md)
 

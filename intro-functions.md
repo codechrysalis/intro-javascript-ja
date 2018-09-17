@@ -9,19 +9,18 @@
 
 ## 講義スライド
 
-* [Functions 講義入門](https://docs.google.com/presentation/d/e/2PACX-1vRn4Yo1FeW1K06qqnH1g1GjrIpPwyaMy4uHsRLn-v_D7UqHoH3BaltAK8thP4nB73zq5j4iaXLU501v/pub?start=false&loop=false&delayms=3000)
-* [Functions 講義入門 Pt. 2 - Function部分](https://docs.google.com/presentation/d/e/2PACX-1vSLxxhqItSgZb_lIbkKuTyHdjTheyFaHJQuiewxMlkkJeZAcODTOJi2opodgCIQtPI03rXlUktEo26v/pub?start=false&loop=false&delayms=3000)
+* [Functions 講義入門](https://docs.google.com/presentation/d/e/2PACX-1vSZNBSMIbREHO5NW_GTpbSIOucnS_Zq29EK7AOTyRymqp6YPq1reV_7S-gUqK5Nmd5k3XA54_17-Fbb/pub?start=false&loop=false&delayms=3000)
 
 ## Exercises
 
 ### 簡素な開発環境を作ってみよう
 
-[スライドはこちら -->](https://docs.google.com/presentation/d/e/2PACX-1vRSb9AJwPOEob4Bv406rK9Q6uLEmnWcI34Df2FsiGGpT7wA0DfieZOnxpaCimtaRSKX-atpQIiAaJss/pub?start=false&loop=false&delayms=3000)
+[スライドはこちら -->](https://docs.google.com/presentation/d/e/2PACX-1vSqptF2VmwR1R1Xx54emSqbp6TXyrewLPySmMt4Qo8x2q6LQMXZe_t0_5QIDTlSxo2S25RLi9GwzoA1/pub?start=false&loop=false&delayms=3000)
 
 1. [このzipファイルをダウンロードしてください。](https://cdn.rawgit.com/codechrysalis/intro-javascript/2979d760/your-template.zip) それから以下に進んでください。
 2. zipを解凍してください。
 3. あなたの隣の人と一緒に、Visual Studio Code上での`your-template`フォルダーの開き方が正しいか、確認してみましょう。
-4. Visual Stuido Code上でzipファイルの中身を開けたら、その中身を見てみてください。何がありますか？
+4. Visual Studio Code上でzipファイルの中身を開けたら、その中身を見てみてください。何がありますか？
 5. 以下のexercisesでは、拡張子が `.js` のファイルで作業することになります。
 
 ### 基礎編

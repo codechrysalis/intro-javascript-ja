@@ -10,7 +10,7 @@
 
 ## 講義スライド
 
-[スライドはこちら](https://docs.google.com/presentation/d/e/2PACX-1vQR9MVY1wprMhweN278XrP587sizLmdR1qxVmW2RDoArrz2Exxwy4wi1fZXgD0_-eGxRzMo6-2dzvLk/pub?start=false&loop=false&delayms=3000)
+[スライドはこちら](https://docs.google.com/presentation/d/e/2PACX-1vSAqVbTdTly4zBv--X_YJRyZO1pq3bfwE9iS6eCShDDsRUPhChV4CudJP5WuhGFfOiMVjkZcCx_4zQw/pub?start=false&loop=false&delayms=3000)
 
 ## Exercises
 

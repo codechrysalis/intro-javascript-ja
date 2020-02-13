@@ -1,34 +1,24 @@
-# JavaScriptを使ったプログラミング入門
+# 日本語ファウンデーションズ　体験クラス
 
-こんにちは！今日は私たちのワークショップにお越しくださってありがとうございます 😄
-皆さんにJavaScriptのおもしろさを知ってもらえることにとてもわくわくしています。
+こんにちは！今日は私たちの日本語ファウンデーションズの体験クラスに来てくださってありがとうございます 😄
+皆さんに JavaScript のおもしろさを知ってもらえることにとてもわくわくしています。
 
 ## 始める前に
 
 インストールするもの:
 
 * Google Chrome
-* Visual Studio Code
 
 ## 今日のレッスン
 
-* [Welcome Slides](https://docs.google.com/presentation/d/e/2PACX-1vRc3EGkVdx0Db7VNkbCNaTWHZA5Ge5PtYMM_guIVa6QvvQ4N8Yy3b7jxHWxNJWjmg0H9P05VM7wKAP1/pub?start=false&loop=false&delayms=3000)
 * [プログラミングの基礎](https://github.com/codechrysalis/intro-javascript-ja/blob/master/foundations.md)
-* [ファンクション入門](https://github.com/codechrysalis/intro-javascript-ja/blob/master/intro-functions.md)
 
 ## レッスンの後にするべきこと
 
-* 以下の題材にチャレンジしてみましょう。わからないことがあれば、気軽にメールで質問してくださいね。: [hello@codechrysalis.io](mailto:hello@codechrysalis.io)
-* [Eloquent JavaScript](http://eloquentjavascript.net/)の、chapters 1 から 5 までを読み、Exercisesに取り組む。
-* [Code Wars](https://www.codewars.com/)に登録（無料です！）して、コーディングを練習。
-* HTMLとCSSの基礎を習熟する。
-  * 自分についてのウェブサイトを、HTMLとCSSを使って作り上げましょう。
-* [Harvard's free online CS50x](https://harvardx.harvard.edu/cs50x-introduction-computer-science)は、ちがうプログラミング言語を扱う経験を得られるのでおすすめ。
-* テクニカル系のミートアップに参加して、この世界に没頭しましょう！
-  * [Code Chrysalis](https://www.meetup.com/codechrysalis)
-  * [DevJapan](https://www.meetup.com/devjapan)
-  * これだけではなくもっとたくさんあります。自分で興味あるものを見つけて行ってみましょう！ [Meetup.com](https://www.meetup.com) と [Connpass.com](http://connpass.com/) で見つけられます。
-  * [東京で行われている女性のためのイベントやコミュニティの一覧](https://medium.com/code-chrysalis/the-definitive-guide-to-womens-tech-events-and-communities-in-tokyo-43a00ee3f87d)
+* 初心者向けのオンラインの日本語でのコースであれば、ドットインストールが挙げられます。
+  * [はじめてのHTML](https://dotinstall.com/lessons/basic_html_v5)
+  * [はじめてのCSS](https://dotinstall.com/lessons/basic_css_v5)
+  * [はじめてのJavaScript](https://dotinstall.com/lessons/basic_javascript_v4)
 
 ## アドバイスととっておきのコツ
 
@@ -42,11 +32,13 @@
 * 失敗をたくさんすることが普通なのです。コーディングは終わることのないエラーメッセージのパレード。新しいエラーに遭遇する限り、進歩しているのです。
 * 眼の前のことを一歩ずつ。次にできることに集中しましょう。
 
-# ネットで私たちとつながりましょう
+## ネットで私たちとつながりましょう
 
-## Masataka Shintoku
+### Masataka Shintoku - 新徳雅隆
 
 * [GitHub](https://github.com/maaaashin324)
+* [Twitter](https://twitter.com/masataka_shin)
+* [Facebook](https://www.facebook.com/profile.php?id=100003339995530)
 
 ## コードクリサリスについて
 
@@ -54,11 +46,11 @@
 
 グローバルレベルのフルスタックソフトウェアエンジニア（つまりインフラからミドルウェア、モバイル、デザインまで、あるいは設計からプログラミング、デプロイまで、全てをこなせるエンジニア）を育てるためのフルタイム型のブートキャンプを開催しています。
 
-主なプログラムは以下2つです---[コーディング入門コース](https://www.codechrysalis.io/foundations) and [英語コミュニケーションコース](https://www.codechrysalis.io/english).
+主な日本語のプログラムは以下2つです---[日本語ファウンデーションズ](https://www.codechrysalis.io/foundations-japanese)と[日本語イマーシブ](https://www.codechrysalis.io/immersive-japanese)を受けると自分でキャリアを形成できるソフトウェアエンジニアとなれます。「自分でキャリアを形成できる」ということの意味は、**作っただけでわかった気になっているのではなく、自分でどんな技術でも使いこなせるようになる**エンジニアのことです。
 
-私たちは生徒をただのエンジニアではなくリーダーに育て、世界を変えていきたい！と考えています。
+私たちは、あなたにプログラミングを通じて、人生の選択肢を多く持ってもらうことを目標にしています。経済的自由、働く場所の自由、住処の自由、仕事の自由を手にしませんか？プログラミング初心者も大歓迎です。
 
-コミュニティ向けに無料のワークショップやイベントも用意しているので、インスタグラム、フェイスブックやTwitterでフォローいただき、是非サポートください！
+無料のイベントも用意しているので、Instagram、FacebookやTwitterでフォローいただき、是非サポートください！
 
 🦋🦋🦋
 
